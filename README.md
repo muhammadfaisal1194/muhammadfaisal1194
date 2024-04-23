@@ -13,6 +13,8 @@
 - **Buildalesson (AI based too to build lessons) => :link: https://www.buildalesson.org/**
 - **Puzzicle (Learn together) => :link: https://puzzicle.org/**
 - **Crypto Intelligence provider (ReactJs + ReduxJs) => :link: https://www.unblinked.com/**
+- **An online learning platform (NextJs + NodeJs) => :link: https://www.darpatente.com/**
+- **A platform to sell and buy cars => :link: https://crazycarcorner.com/**
 
 ## Technologies I Know
 
