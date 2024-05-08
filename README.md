@@ -1,4 +1,4 @@
-### Hi there I am Muhammad Faisal Mahmood <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN Stack) Developer from Pakisan :pakistan:
+### Hi there I am Muhammad Faisal Mahmood <img height="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Full Stack (MERN Stack) Developer from Pakisan <sup>PK</sup>
 
 ### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
